@@ -13,7 +13,7 @@ Customizable Configuration: Requires manual configuration of the MySQL database 
 Usage
 To run the application, follow these steps:
 
-Download the Bash Script: Download the provided Bash script file (<script_name>.sh) from the repository.
+Download the Bash Script: Download the provided Bash script file (main.sh) from the repository.
 
 Configure MySQL Database and Table:
 
@@ -21,6 +21,11 @@ Set up a MySQL database on your local machine or a remote server.
 Create a table with the necessary fields for your application's data.
 Configure the database connection details (e.g., host, port, username, password) in the application's source code.
 Run the Application:
+
+in terminal: 
+Run
+
+move the bash script to your /usr/local/bin
 
 Execute the Bash script file to launch the application.
 Follow the on-screen instructions to interact with the GUI and manage your database records.
